@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the defeat of the rebels by their Majesties forces in Queens-County in Ireland, May 4. 1691.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01355</idno>
+            <idno type="STC">Wing A273</idno>
+            <idno type="STC">ESTC R170032</idno>
+            <idno type="EEBO-CITATION">52614488</idno>
+            <idno type="OCLC">ocm 52614488</idno>
+            <idno type="VID">175740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175740)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the defeat of the rebels by their Majesties forces in Queens-County in Ireland, May 4. 1691.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Anno. Dom. 1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Below caption: "Published by authority."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Includes a list of those killed or taken prisoner, by name and rank.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691 --  Campaigns --  Early works to 1800.</term>
+               <term>Great Britain --  History, Military --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175740:1"/>
+            <pb n="1" facs="tcp:175740:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE Defeat of the REBELS By Their MAjESTIES Forces In <hi>Queens-County</hi> in <hi>IRELAND,</hi> May 4, 1691.</head>
+            <argument>
+               <p>Publiſhed by Authority.</p>
+            </argument>
+            <p>UPON Intelligence that a Party of Rapperies were troubleſome about <hi>Caſtle-Cuff,</hi> Major <hi>Wood,</hi> who is Gariſoned at <hi>Mountmelick</hi> on the Fourth of <hi>May</hi> went out with a Party of 300 Foot, Detached out of Colonel <hi>Lloy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s, and Lord <hi>George Hamilton</hi>'s Regiments, and 50 Horſe of Colonel <hi>Byerly</hi>'s Regiment, the Rapperies, upon their approach, took the Bog: Ma<g ref="char:EOLhyphen"/>jor <hi>Wood</hi> divided his Foot into ſeveral Parties to ſcoure the Woods and Bogs, and he, with his Horſe, ſecured the Skirts of the Bog to prevent their eſcape. By this means they killed 70 Rapperies, and brought off a conſiderable Prey of Cattel, and having with his Horſe advanced upon the <hi>Togher</hi> of <hi>Mallyhone,</hi> on <hi>Caſtle-Cuff</hi> ſide of the River, and from thence ſent the Cattel homewards, under a guard of 30 Foot, and was returning with the reſt of the Party, when he diſcovered two Bodies of the late Kings Army, each computed to be 400 Men, coming on our Party, as they ſuppoſed privately between the Wood and the Mountain; but perceiving we eſpied them, they Beat their Drums. The Major drew up his Party in a Plow'd Field, and was ready to re<g ref="char:EOLhyphen"/>ceive them, having then with him but 110 Foot, &amp; 34 Horſe, the reſt being a Rapperee-Hunting in the Woods: The Enemies Granadiers came over the Hedges towards us, but perceiving our Men ſtand firm, advanced no further. Their firſt Body were all this while making towards the Wood, which the Major perceiving, and ſuppoſing his Men, who were guarding the Prey, were not yet got clear of the Wood, and might there be expoſed to their Numbers marched his Horſe and Foot through the Bog; which as ſoon as he had paſſed, he underſtood by their Shooting, they were really engaged, and bravely maintained the Fight, under the Command of Lieutenant <hi>Ellis,</hi> a<g ref="char:EOLhyphen"/>gainſt the great Body. By this time the continual Firing brought in two Parties of ours of about 40 Men each, the one commanded by captain <hi>Dixie,</hi> and Enſign <hi>Ruſſel,</hi> the other by Major <hi>Rider,</hi> and Lieutenant <hi>Barton,</hi> Ad<g ref="char:EOLhyphen"/>jutant to the Lord <hi>George Hamilton</hi>'s Regiment. Major <hi>Wood</hi> commanded both Parties to march on each ſide the River, which was but ſhallow, and himſelf with the Horſe marched near the River betwixt both Parties: Coming near the Enemy, the Major, thinking the Horſe might do moſt Service in
+<pb n="2" facs="tcp:175740:2"/>falling upon their Rear, immediately Gallopt (fetching a little compaſs) to do ſo; the Enemy perceiving his Deſign, (and being hard enough preſſed by our Foot) began to make an orderly Retreat; which the Major ſeeing, fell immediately on their Flank, which put them firſt into great Confuſion, and ſoon after to a perfect flight: The Major then with ſome Horſe, Gallop'd to ſtop them, which he did effectually, and the Foot ſo well ſeconded him in the Rear, that they killed and took Priſoners the Perſons in the annexed Liſt; and this, to Admiration, with the loſs only of one private Man, and two others wounded.</p>
+            <p>There were killed and taken Priſoners in this Action, the Perſons fol<g ref="char:EOLhyphen"/>lowing; <hi>Viz.</hi>
+               <list>
+                  <item>
+                     <list>
+                        <head>Killed,</head>
+                        <item>Captain <hi>Chales,</hi>
+                        </item>
+                        <item>Two Lieutenants, and about 150 Common Soldiers.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Priſoners,</head>
+                        <item>Major <hi>John Fitz-Patrick,</hi> who Commanded the Party.</item>
+                        <item>Captain <hi>Michael Foriſter,</hi> of Collonel <hi>Butler</hi> of <hi>Bal<g ref="char:EOLhyphen"/>lyraggath</hi>'s Regiment of Foot.</item>
+                        <item>Captain <hi>Edmond Butler,</hi> of Collonel <hi>Butler</hi> of <hi>Bal<g ref="char:EOLhyphen"/>lyraggath</hi>'s Regiment of Foot.</item>
+                        <item>Lieutenant <hi>Daniel Magraph,</hi> of Collonel <hi>Butler</hi> of <hi>Bal<g ref="char:EOLhyphen"/>lyraggath</hi>'s Regiment of Foot.</item>
+                        <item>Lieutenant <hi>William Dormer,</hi> of Collonel <hi>Butler</hi> of <hi>Bal<g ref="char:EOLhyphen"/>lyraggath</hi>'s Regiment of Foot.</item>
+                        <item>Lieutenant <hi>Oliver Purcell,</hi> of Collonel <hi>Butler</hi> of <hi>Bal<g ref="char:EOLhyphen"/>lyraggath</hi>'s Regiment of Foot.</item>
+                        <item>Lieutenant <hi>Michael Blanchfield,</hi> of Collonel <hi>Butler</hi> of <hi>Bal<g ref="char:EOLhyphen"/>lyraggath</hi>'s Regiment of Foot.</item>
+                        <item>Enſign <hi>John Magraph,</hi> of Collonel <hi>Butler</hi> of <hi>Bal<g ref="char:EOLhyphen"/>lyraggath</hi>'s Regiment of Foot.</item>
+                        <item>Captain <hi>Michael Cheevers,</hi> of Collonel <hi>Robert Grace</hi>'s Regiment of Foot.</item>
+                        <item>Lieutenant <hi>James Caddel,</hi> of Collonel <hi>Robert Grace</hi>'s Regiment of Foot.</item>
+                        <item>Lieutenant <hi>Nicholas Deale,</hi> of Collonel <hi>Robert Grace</hi>'s Regiment of Foot.</item>
+                        <item>Adjutant <hi>Farrell,</hi> of Collonel <hi>Robert Grace</hi>'s Regiment of Foot.</item>
+                        <item>Lieutenant <hi>Collumb Dunn,</hi> of Coll. <hi>Charles Moore</hi>'s Regiment of Foot.</item>
+                        <item>Lieutenant <hi>Alexander Reach,</hi> of Coll. <hi>Charles Moore</hi>'s Regiment of Foot.</item>
+                        <item>Enſign <hi>Loughlin Moore,</hi> of Coll. <hi>Charles Moore</hi>'s Regiment of Foot.</item>
+                        <item>Captain <hi>John Coughlan,</hi> of Coll. <hi>Simon Luttrel</hi>'s Regiment of Dragoons.</item>
+                        <item>Captain <hi>Patrick Warren,</hi> of Coll. <hi>Simon Luttrel</hi>'s Regiment of Dragoons.</item>
+                        <item>Lieutenant <hi>Morris Fitz-Gerrald,</hi> of Sir <hi>Maurice Euſtace</hi> Regiment of Foot.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Beſides
+<list>
+                  <item>105 Privat Soldiers of the Army Dragoons and Foot of which are 6 Serjeants,</item>
+                  <item>17 Corporals,</item>
+                  <item>1 Chirurgeon,</item>
+                  <item>3 Drums, and about 150 Muſquets.</item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>Anno Dom.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
